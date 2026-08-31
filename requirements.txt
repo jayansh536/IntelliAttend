@@ -1,0 +1,15 @@
+numpy   #used for array, and it is faster
+pandas  #to perform tabular operation
+
+scikit-learn  #used in classification for face recognition
+dlib-bin #to detect the face
+# git+https://github.com/ageitgey/face_recognition_models     #detect face embedding(vector-detect sizes of face parts)
+setuptools
+
+supabase # provide 2-3 gb database free
+bcrypt #give hashing methods
+
+segno  #generate QR code
+pillow #help in image preprocessing like resize,flip the image,etc
+
+streamlit #frontend library
